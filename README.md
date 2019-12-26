@@ -17,3 +17,18 @@ allprojects {
   }
 }
 ```
+
+2. Add the dependency.
+
+```
+dependencies {
+  ...
+  implementation 'com.github.kashifulhaque:SarcasticText:0.1.0'
+}
+```
+
+3. Usage.
+
+```
+textView.setText(SarcasticText.makeSarcasticText("I am trying to be funny."));
+```
