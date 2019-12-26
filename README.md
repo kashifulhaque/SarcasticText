@@ -7,6 +7,8 @@ Android Library to generate mock/sarcastic text like "wHaT's sO fUnNy."
 # How to:
 
 1. Add JitPack repository to your build file, if not present already.
+JitPack: https://jitpack.io/#kashifulhaque/SarcasticText/0.1.0
+
 > Add the following code to your project level build.gradle file.
 
 ```
