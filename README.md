@@ -34,4 +34,5 @@ textView.setText(SarcasticText.makeSarcasticText("I am trying to be funny."));
 ```
 
 **Changelog**
-* 0.1.0: Initial commit, added the basic functionality.
+* 0.1.0
+  * Initial commit, added the basic functionality.
