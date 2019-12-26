@@ -2,7 +2,7 @@
 
 📚 Android Library to generate mock/sarcastic text like "wHaT's sO fUnNy."
 
-<img src="https://github.com/kashifulhaque/SarcasticText/raw/master/app/screen.png" width="48">
+<img src="https://github.com/kashifulhaque/SarcasticText/raw/master/app/screen.png" width="256">
 
 # How to:
 
