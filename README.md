@@ -4,7 +4,9 @@
 
 <img src="https://github.com/kashifulhaque/SarcasticText/raw/master/app/screen.png" width="320">
 
+
 # How to:
+
 
 1. Add JitPack repository to your build file, if not present already.
 JitPack: https://jitpack.io/#kashifulhaque/SarcasticText/0.1.0
@@ -20,6 +22,7 @@ allprojects {
 }
 ```
 
+
 2. Add the dependency.
 > Add the following code to your app level build.gradle
 
@@ -30,11 +33,13 @@ dependencies {
 }
 ```
 
+
 3. Usage.
 
 ```
 textView.setText(SarcasticText.makeSarcasticText("I am trying to be funny."));
 ```
+
 
 **Changelog**
 * 0.1.0
