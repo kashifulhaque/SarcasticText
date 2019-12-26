@@ -21,6 +21,7 @@ allprojects {
 ```
 
 2. Add the dependency.
+> Add the following code to your app level build.gradle
 
 ```
 dependencies {
