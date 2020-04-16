@@ -36,7 +36,7 @@ dependencies {
 3. Usage.
 
 ```
-textView.setText(SarcasticText.makeSarcasticText("I am trying to be funny."));
+textView.setText(SarcasticText.generate("I am trying to be funny."));
 ```
 
 
