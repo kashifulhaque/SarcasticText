@@ -9,7 +9,7 @@
 
 
 1. Add JitPack repository to your build file, if not present already.
-JitPack: https://jitpack.io/#kashifulhaque/SarcasticText/0.1.0
+JitPack: https://jitpack.io/#kashifulhaque/SarcasticText/0.1.1
 
 > Add the following code to your project level build.gradle file.
 
@@ -29,7 +29,7 @@ allprojects {
 ```
 dependencies {
   ...
-  implementation 'com.github.kashifulhaque:SarcasticText:0.1.0'
+  implementation 'com.github.kashifulhaque:SarcasticText:0.1.1'
 }
 ```
 
@@ -44,3 +44,5 @@ textView.setText(SarcasticText.makeSarcasticText("I am trying to be funny."));
 **Changelog**
 * 0.1.0
   * Initial commit, added the basic functionality.
+* 0.1.1 on April 17, 2020
+  * Modified the method name.
