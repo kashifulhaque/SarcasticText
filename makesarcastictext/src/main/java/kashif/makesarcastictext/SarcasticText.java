@@ -2,7 +2,7 @@ package kashif.makesarcastictext;
 
 public class SarcasticText {
 
-    public static String makeSarcasticText(String text) {
+    public static String generate(String text) {
         text = text.trim();
 
         String[] tokens = text.split(" ");
