@@ -9,7 +9,6 @@
 
 
 1. Add JitPack repository to your build file, if not present already.
-JitPack: https://jitpack.io/#kashifulhaque/SarcasticText/0.1.1
 
 > Add the following code to your project level build.gradle file.
 
