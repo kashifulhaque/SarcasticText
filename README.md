@@ -41,7 +41,7 @@ textView.setText(SarcasticText.makeSarcasticText("I am trying to be funny."));
 
 
 **Changelog**
-* 0.1.0
+* 0.1.0 on December 27, 2019
   * Initial commit, added the basic functionality.
 * 0.1.1 on April 17, 2020
   * Modified the method name.
